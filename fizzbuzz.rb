@@ -6,14 +6,9 @@ def Fizzbuzz(number)
     puts "Fizz"
   elsif number / 5
     puts "Buzz"
-  end
   if number / 3 && number / 5
     puts "Fizzbuzz"
   else 
     puts "nil"
   end
 end
-
-
-number = 15
-Fizzbuzz(number)
