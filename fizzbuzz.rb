@@ -3,6 +3,7 @@
 
 def Fizzbuzz(number)
   if number / 3 && number / 5
+    
   if number / 3 
     puts "Fizz"
   elsif number / 5
