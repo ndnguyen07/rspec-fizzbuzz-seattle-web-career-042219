@@ -15,3 +15,4 @@ end
 
 
 number = 15
+Fizzbuzz(number)
