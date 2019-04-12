@@ -12,7 +12,3 @@ def Fizzbuzz(number)
     puts "nil"
   end
 end
-
-
-
-Fizzbuzz(500)
