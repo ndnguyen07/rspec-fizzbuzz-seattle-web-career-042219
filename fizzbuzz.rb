@@ -15,4 +15,5 @@ end
 
 
 
-number = 
+number = 500
+Fizzbuzz(number)
