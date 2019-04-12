@@ -12,3 +12,7 @@ def Fizzbuzz(number)
     puts "nil"
   end
 end
+
+
+
+number = 
