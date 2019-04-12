@@ -8,5 +8,9 @@ def fizzbuzz(number)
   if number % 5 == 0
     puts "Buzz"
   end
-  
+  if number % 3 && number % 5 == 0
+    puts "Fizzbuzz"
+  else 
+    puts "nil"
+  end
 end
